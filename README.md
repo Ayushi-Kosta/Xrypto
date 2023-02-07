@@ -1,8 +1,7 @@
-# Xrypt - Web 3.0 Blockchain Application
 <div>
     <div>
         <h1>Xrypto</h1>
-        <h3>Crypto for all</h3>
+        <h3>Crypto for all - allows users to send transactions securely through the blockchain</h3>
     </div>
     <p align="center">
       <img src="https://github.com/Ayushi-Kosta/Xrypto/blob/main/readme_images/1.png" width="750" title="hover text">
